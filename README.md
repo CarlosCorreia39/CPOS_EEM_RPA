@@ -1,6 +1,6 @@
-# 1TEN EN-AEL Carlos Jorge Martelo Correia 
-# Trabalho de Aplicação Individual - Estudo de Estado-Maior
+# Trabalho de Aplicação Individual CPOS-M 2022/2023 – 1.ª Edição - Estudo de Estado-Maior
 # "Escassez de Recursos Humanos na Área do Back-Office e Tecnologias de Informação na Marinha Portuguesa"
+# 1TEN EN-AEL Carlos Jorge Martelo Correia 
 ____________________________________________________________________________________
 # Caso de Estudo DA: 
 

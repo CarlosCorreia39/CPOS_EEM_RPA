@@ -15,6 +15,9 @@ No entanto, a documentação dos artigos/peças antes de 2011 era manuscrita, de
 
 ### Figura 2 - Robotização de Processos DA – Visão Geral – Diagrama de Colaboração. 
 ![](FIGURAS/DA_DIAGRAMA_COLABORACAO.png)
+
+### Figura 3 - Robotização de Processos DT na plataforma RPA UiPath. 
+![](FIGURAS/DA_SICMAR.png)
 ____________________________________________________________________________________
 # Caso de Estudo DT: 
 
@@ -31,9 +34,9 @@ O Sistema de Gestão do Parque de Veículos do Estado (SGPVE), de acordo com o D
   vi.	  Controlo da frota de veículos apreendidos ou perdidos a favor do Estado e considerados "Com Interesse para o PVE".
   
   
-### Figura 3 - Robotização Processos DT - Modelo de Domínio. 
+### Figura 4 - Robotização Processos DT - Modelo de Domínio. 
 ![](FIGURAS/DT_MODELO_DOMINIO.png)
 
-### Figura 4 - Robotização de Processos DT – Visão Geral – Diagrama de Colaboração. 
+### Figura 5 - Robotização de Processos DT – Visão Geral – Diagrama de Colaboração. 
 ![](FIGURAS/DT_DIAGRAMA_COLABORACAO.png)
 ____________________________________________________________________________________

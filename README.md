@@ -11,7 +11,10 @@ A criação desta aplicação ocorreu em 2019 com a tarefa principal de cataloga
 No entanto, a documentação dos artigos/peças antes de 2011 era manuscrita, de modo que não foi possível ser carregada. Um funcionário administrativo foi responsável pela digitalização de toda essa documentação em falta, aproximadamente 78.000 artigos/documentos de peças, os quais foram fornecidos à equipa do IT para carregamento no sistema. Após dois anos de trabalho diário dedicado a esta tarefa, este funcionário apenas tinha conseguido processar cerca de 10.000 documentos.
 
 ### Figura 1 - Robotização Processos DA - Modelo de Domínio. 
-![](FIGURAS/DT_MODELO_DOMINIO.png)
+![](FIGURAS/DA_MODELO_DOMINIO.png)
+
+### Figura 2 - Robotização de Processos DA – Visão Geral – Diagrama de Colaboração. 
+![](FIGURAS/DA_DIAGRAMA_COLABORACAO.png)
 ____________________________________________________________________________________
 # Caso de Estudo DT: 
 
@@ -26,4 +29,11 @@ O Sistema de Gestão do Parque de Veículos do Estado (SGPVE), de acordo com o D
   iv.	  Controlo de consumos, emissões de CO2;
   v.	  Reporting de diversos dados relacionados com a frota (manutenções, sinistros, transações de combustível, IPO's, frota ativa e respetivas entradas e           saídas por período) que podem ser obtidos por organismo ou UMC;
   vi.	  Controlo da frota de veículos apreendidos ou perdidos a favor do Estado e considerados "Com Interesse para o PVE".
+  
+  
+### Figura 3 - Robotização Processos DT - Modelo de Domínio. 
+![](FIGURAS/DT_MODELO_DOMINIO.png)
+
+### Figura 4 - Robotização de Processos DT – Visão Geral – Diagrama de Colaboração. 
+![](FIGURAS/DT_DIAGRAMA_COLABORACAO.png)
 ____________________________________________________________________________________

@@ -11,7 +11,7 @@ A criação desta aplicação ocorreu em 2019 com a tarefa principal de cataloga
 No entanto, a documentação dos artigos/peças antes de 2011 era manuscrita, de modo que não foi possível ser carregada. Um funcionário administrativo foi responsável pela digitalização de toda essa documentação em falta, aproximadamente 78.000 artigos/documentos de peças, os quais foram fornecidos à equipa do IT para carregamento no sistema. Após dois anos de trabalho diário dedicado a esta tarefa, este funcionário apenas tinha conseguido processar cerca de 10.000 documentos.
 
 ### Figura 1 - Robotização Processos DA - Modelo de Domínio. 
-![](FIGURAS/DT – Modelo de Domínio.png)
+![](FIGURAS/DT_MODELO_DOMINIO.png)
 ____________________________________________________________________________________
 # Caso de Estudo DT: 
 

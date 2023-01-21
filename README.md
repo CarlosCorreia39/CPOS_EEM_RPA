@@ -9,6 +9,9 @@ O SICMAR é uma aplicação utilizada para gerir o abastecimento de peças para 
 A criação desta aplicação ocorreu em 2019 com a tarefa principal de catalogar artigos/peças em navios da MP. Os artigos referem-se a peças que equipam os navios da MP. Esta aplicação permite a pesquisa de artigos/peças de três formas diferentes, nomeadamente: ”por pesquisa livre”, “por pesquisa de equipamento” ou “por pesquisa de artigo/peça”. Cada artigo/peça possui informações detalhadas sobre o seu histórico e documentos associados. Salientando-se que todo o histórico dos artigos a partir de 2011 foi carregado na base de dados da aplicação, sendo que a documentação associada estava em suporte digital. 
 
 No entanto, a documentação dos artigos/peças antes de 2011 era manuscrita, de modo que não foi possível ser carregada. Um funcionário administrativo foi responsável pela digitalização de toda essa documentação em falta, aproximadamente 78.000 artigos/documentos de peças, os quais foram fornecidos à equipa do IT para carregamento no sistema. Após dois anos de trabalho diário dedicado a esta tarefa, este funcionário apenas tinha conseguido processar cerca de 10.000 documentos.
+
+### Figura 1 - Robotização Processos DA - Modelo de Domínio. 
+![](FIGURAS/DT – Modelo de Domínio.png)
 ____________________________________________________________________________________
 # Caso de Estudo DT: 
 
